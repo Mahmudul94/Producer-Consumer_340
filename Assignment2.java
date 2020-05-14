@@ -1,4 +1,5 @@
 //100 20 5
+//Ct
 public class Assignment2 {
 
 	public static void main(String[] args) {
